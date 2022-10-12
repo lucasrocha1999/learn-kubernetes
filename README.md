@@ -55,7 +55,7 @@ docker-compose up --build -d
 
 ## Kubernetes
 
-> ⚠️ Para executar esses exemplos, vamos instalar o [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/) para executar a CLI e o [minikube](https://kubernetes.io/pt-br/docs/tutorials/hello-minikube/) que disponibiliza um ambiente Kubernetes gratuito e acessível via navegador
+> ⚠️ Para executar esses exemplos, será necessário instalar o [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/) para executar a CLI e o [minikube](https://kubernetes.io/pt-br/docs/tutorials/hello-minikube/) que disponibiliza um ambiente Kubernetes gratuito e acessível via navegador
 
 **Criar pod**
 
